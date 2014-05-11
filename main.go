@@ -1,6 +1,6 @@
 // fileflinger:main.go
 // Utility for serving a directory over HTTP
-// Licensed under the three clause BSD license (see LICENSE):
+// Licensed under the three clause BSD license (see LICENSE.md):
 
 package main
 
